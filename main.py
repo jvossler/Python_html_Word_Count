@@ -1,4 +1,14 @@
 # https://stackabuse.com/python-for-nlp-creating-bag-of-words-model-from-scratch/
+# https://www.google.com/search?q=python%20index%20lines%20variable&cad=h
+# https://www.google.com/search?q=bs.BeautifulSoup(raw_html,%20%27lxml%27&cad=h
+# https://stackabuse.com/read-a-file-line-by-line-in-python/
+# https://docs.python.org/3/library/pwd.html
+# https://github.com/jvossler/Python_html_Word_Count
+# https://stackoverflow.com/questions/860140/whoami-in-python
+# https://www.learnpython.org/en/Loops
+# https://www.w3schools.com/python/python_variables.asp
+# https://www.google.com/search?q=python%20for%20loop%20tutorial&cad=h
+# 
 
 import nltk
 import numpy as np
