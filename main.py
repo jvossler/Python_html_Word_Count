@@ -1,3 +1,5 @@
+# https://repl.it/@JosephVossler/
+#
 # https://stackabuse.com/python-for-nlp-creating-bag-of-words-model-from-scratch/
 # https://www.google.com/search?q=python%20index%20lines%20variable&cad=h
 # https://www.google.com/search?q=bs.BeautifulSoup(raw_html,%20%27lxml%27&cad=h
